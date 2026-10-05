@@ -54,7 +54,7 @@ The dashboard includes:
 
 The dashboard provides an interactive view of employee demographics, attrition patterns, salary distribution, job satisfaction, experience, and department-wise workforce strength.
 
--dashbpard <a href="https://github.com/Suman-Yadav2002/HR-Analytics/commit/0a1ca1addac180b5653c62d90aa78b72da2df972">Dashboard View </a>
+-dashboard <a href="https://github.com/Suman-Yadav2002/HR-Analytics/commit/0a1ca1addac180b5653c62d90aa78b72da2df972">Dashboard View </a>
 
 
 ## 💡 Key Business Insights
