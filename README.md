@@ -5,6 +5,7 @@ I'm excited to share my **HR Analytics Dashboard**, created using Microsoft Powe
 ## 📂 Dataset Used
 
 The dataset contains employee-related information such as age, gender, department, job role, salary slab, experience, job satisfaction, and attrition status.
+- <a href="https://github.com/Suman-Yadav2002/HR-Analytics/blob/main/HR_Analytics-4.csv">Dataset View</a>
 
 
 ## 📌 Project Overview
@@ -53,7 +54,8 @@ The dashboard includes:
 
 The dashboard provides an interactive view of employee demographics, attrition patterns, salary distribution, job satisfaction, experience, and department-wise workforce strength.
 
-[HR Analytics Dashboard](YOUR_DASHBOARD_LINK_HERE)
+-dashbpard <a href="https://github.com/Suman-Yadav2002/HR-Analytics/commit/0a1ca1addac180b5653c62d90aa78b72da2df972">Dashboard View </a>
+
 
 ## 💡 Key Business Insights
 
@@ -72,6 +74,7 @@ The objective of this project is to transform raw HR data into an interactive **
 
 💡 **Looking for a custom Power BI dashboard for your business? Let's connect!** 👩‍💻📊
 
+<img width="1177" height="665" alt="SS" src="https://github.com/user-attachments/assets/5900cd98-36ad-4a39-97b6-407f5f04a858" />
 
 
 #PowerBI #PowerBIDashboard #HRAnalytics #DataAnalytics #DataVisualization #BusinessIntelligence #PowerQuery #DAX #DataAnalysis #Dashboard #HRDashboard #EmployeeAnalytics
